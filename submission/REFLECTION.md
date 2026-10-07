@@ -8,7 +8,7 @@
 
 **2. Bạn mất nhiều thời gian nhất ở đâu? Nó có phải chỗ bạn dự đoán không?**
 
-> Phần tốn thời gian nhất là NB4, khoảng 22 phút cho ba cấu hình đối chứng; lần tải model đầu tiên cũng mất thêm khoảng 7 phút. Tôi đoán huấn luyện sẽ là phần lâu nhất, nên NB4 đúng là đáng kể, nhưng không ngờ riêng việc tải checkpoint 9.32 GB lại chiếm nhiều thời gian như vậy. Các lượt đánh giá đầy đủ NB2 và NB5 sau đó nhanh hơn dự kiến: lần lượt khoảng 5 và 11 phút trên T4.
+> Phần tốn thời gian nhất là NB4, khoảng 22 phút cho ba cấu hình đối chứng; lần tải model đầu tiên cũng mất thêm khoảng 7 phút. Tôi đoán huấn luyện sẽ là phần lâu nhất, nên NB4 đúng là đáng kể, nhưng không ngờ riêng việc tải checkpoint lại chiếm nhiều thời gian như vậy. Các lượt đánh giá đầy đủ NB2 và NB5 sau đó nhanh hơn dự kiến: lần lượt khoảng 5 và 11 phút trên T4.
 
 **3. Trước lab này bạn tin điều gì về fine-tuning mà giờ bạn không còn tin?**
 
